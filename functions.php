@@ -1,6 +1,7 @@
 <?php
 /**
- * display published and modifed time
+ * Display Published and Modifed Time
+ *
  * in "time ago" format within the loop
  * @param date: unix format date & time
  * @param string: time ago in string
